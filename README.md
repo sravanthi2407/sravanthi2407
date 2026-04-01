@@ -8,13 +8,16 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sravanthi2407&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=sravanthi2407&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ## 🔥 Streak Stats
-![Streak](https://streak-stats.demolab.com?user=sravanthi2407&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=sravanthi2407&theme=tokyonight&cache_seconds=86400)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=sravanthi2407&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sravanthi2407&theme=tokyonight&no-frame=true&margin-w=10)
 
 ## 📌 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sravanthi2407&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sravanthi2407&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+## 📊 Top Contributed Repo
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=sravanthi2407&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
